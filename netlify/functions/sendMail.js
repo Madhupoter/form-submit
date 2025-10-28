@@ -14,7 +14,7 @@ export async function handler(event) {
     secure: false,
     auth: {
       user: "madhu@enternine.com",
-      pass: "Madhu@8704", 
+      pass: "Madhu@8704", // ⚠️ replace with App Password, not main password
     },
   });
 
