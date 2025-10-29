@@ -43,7 +43,7 @@ export async function handler(event) {
             secure: false, // Use true for port 465
             auth: {
                 user: "madhu@enternine.com",
-                pass: "app_password", // ⚠️ Use environment variable in production
+                pass: "Madhu@8704", // ⚠️ Use environment variable in production
             },
             // Additional settings for better reliability
             tls: {
