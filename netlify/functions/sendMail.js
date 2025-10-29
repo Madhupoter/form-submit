@@ -1,4 +1,4 @@
-import nodemailer from "nodemailer";
+ import nodemailer from "nodemailer";
 
 export async function handler(event) {
     // Only allow POST requests
